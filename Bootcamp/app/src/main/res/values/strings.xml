@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="title_activity_find">find</string>
+    <string name="title_home">Home</string>
+    <string name="title_play">Play</string>
+    <string name="title_account">User</string>
+    <string name="title_busqueda">Busqueda</string>
+</resources>
